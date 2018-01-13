@@ -1,0 +1,22 @@
+1	Watching a nice movie
+0	The painting is ugly, will return it tomorrow...
+1	One of the best soccer games, worth seeing it
+1	Very tasty, not only for vegetarians
+1	Super party!
+0	Too early to travel..need a coffee
+0	Damn..the train is late again...
+0	Bad news, my flight just got cancelled.
+1	Happy birthday mr. president
+1	Special thanks to Marty
+1	Thanks God I left on time
+0	I don't recommend this restaurant
+1	Thank you mom for supporting me
+0	I will never ever call you again
+0	I just got kicked out of the contest
+1	Smiling
+0	Big pain to see my team loosing
+0	Bitter defeat tonight
+0	Hopless struggle..
+0	Ugly hat
+1	Big hug and lots of love
+1	I hope you have a wonderful celebration
