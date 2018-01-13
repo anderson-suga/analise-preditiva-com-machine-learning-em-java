@@ -199,4 +199,4 @@ Este repositório contêm exercícios do curso [Análise Preditiva com Machine L
  - Text Analytics com Microsoft Cognitive Services - Parte 2
 
 Link do certificado: https://goo.gl/k67395
-![Data Science Academy - Java Fundamentos](https://github.com/anderson-suga/analise-preditiva-com-machine-learning-em-java/blob/master/certificate-analise-preditiva-com-machine-learning-em-java.png)
+![Certificado - Data Science Academy - Análise Preditiva com Machine Learning em Java](https://github.com/anderson-suga/analise-preditiva-com-machine-learning-em-java/blob/master/certificate-analise-preditiva-com-machine-learning-em-java.png)
