@@ -2,6 +2,8 @@
 
 Este repositório contêm exercícios do curso [Análise Preditiva com Machine Learning em Java](https://www.datascienceacademy.com.br/pages/curso-analise-preditiva-com-machine-learning-em-java) da Data Science Academy.
 
+Link do certificado: https://goo.gl/k67395
+![Certificado - Data Science Academy - Análise Preditiva com Machine Learning em Java](https://github.com/anderson-suga/analise-preditiva-com-machine-learning-em-java/blob/master/certificate-analise-preditiva-com-machine-learning-em-java.png)
 
 # Conteúdo Programático:
 
@@ -197,6 +199,3 @@ Este repositório contêm exercícios do curso [Análise Preditiva com Machine L
  - Microsoft Cognitive Services 
  - Text Analytics com Microsoft Cognitive Services - Parte 1
  - Text Analytics com Microsoft Cognitive Services - Parte 2
-
-Link do certificado: https://goo.gl/k67395
-![Certificado - Data Science Academy - Análise Preditiva com Machine Learning em Java](https://github.com/anderson-suga/analise-preditiva-com-machine-learning-em-java/blob/master/certificate-analise-preditiva-com-machine-learning-em-java.png)
